@@ -2,6 +2,7 @@
 Program for preventing applications closing
 
 Sometimes background programs are dropping down. For preventing this unwanted action, I wrote this app.
+This application will be monitoring processes for your application(-s) and restart it, if not found.
 
 How it works:
 1. [Download latest release](https://github.com/AAndyProgram/AppHost/releases/latest)
