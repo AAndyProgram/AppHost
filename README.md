@@ -19,3 +19,5 @@ Parameters:
 - ```Look Application Name Instead Path``` - If checked than application name (instead application path) will be looking for in processes.
 
 For change parameters click at tray icon and then click "Settings".
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andyprogram)
